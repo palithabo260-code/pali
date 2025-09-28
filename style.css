@@ -1,0 +1,39 @@
+body{
+	background-color:lightblue;
+}
+
+h2 {
+font-weight: bold;
+text-align: center; 
+
+ }
+ p1 {
+font-style: italic;
+ 	 }
+ 
+ .image {
+ 	 height: 350pxs;
+ 	margin-left: 500px;
+ 	margin-right: 500px;
+ 	margin-top: 100px;
+ 
+ 	}
+ 	
+   
+    nav {
+      background-color: #72718e;
+    }
+    nav ul {
+      display: flex;
+    }
+    
+    nav a {
+      display: block;
+      padding: 14px 20px;
+      color: white;
+      text-decoration: none;
+    }
+    nav a:hover {
+      background-color: #575757;
+    }
+  

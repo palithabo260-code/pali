@@ -1,0 +1,32 @@
+ h2 {
+  text-align: center;}
+
+  nav {
+      background-color: #72718e;
+    }
+    nav ul {
+      display: flex;
+    }
+    
+    nav a {
+      display: block;
+      padding: 14px 20px;
+      color: white;
+      text-decoration: none;
+    }
+    nav a:hover {
+      background-color: #4485bb;
+    }
+    body {
+      background-color:  lightblue;
+      padding: 0;
+    }
+
+
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+    }
+  @media {
+    
+  }
